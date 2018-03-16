@@ -1,0 +1,11 @@
+body{
+    max-width:25em;
+    width:100%;
+}
+img#PlayButton{
+    width:100%;
+}
+
+audio{
+    display:none;
+}
